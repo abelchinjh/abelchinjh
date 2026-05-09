@@ -54,32 +54,32 @@
 
 > 📦 50.1 kB Used in GitHub's Storage 
  > 
-> 🏆 135 Contributions in the Year 2026
+> 🏆 137 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
  > 
-> 🔑 2 Private Repositories 
+> 🔑 3 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                72 commits          █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-🌆 Daytime                93 commits          ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
-🌃 Evening                106 commits         ███████░░░░░░░░░░░░░░░░░░   28.42 % 
-🌙 Night                  102 commits         ███████░░░░░░░░░░░░░░░░░░   27.35 % 
+🌞 Morning                72 commits          █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+🌆 Daytime                93 commits          ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+🌃 Evening                107 commits         ███████░░░░░░░░░░░░░░░░░░   28.61 % 
+🌙 Night                  102 commits         ███████░░░░░░░░░░░░░░░░░░   27.27 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Monday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 Tuesday                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Wednesday                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-Thursday                 32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Friday                   51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Saturday                 111 commits         ███████░░░░░░░░░░░░░░░░░░   29.76 % 
-Sunday                   129 commits         █████████░░░░░░░░░░░░░░░░   34.58 % 
+Wednesday                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Thursday                 32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Friday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Saturday                 111 commits         ███████░░░░░░░░░░░░░░░░░░   29.68 % 
+Sunday                   129 commits         █████████░░░░░░░░░░░░░░░░   34.49 % 
 ```
 
 
@@ -89,14 +89,11 @@ Sunday                   129 commits         █████████░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 1 hr 42 mins        ███████████████░░░░░░░░░░   59.34 % 
-Python                   47 mins             ███████░░░░░░░░░░░░░░░░░░   27.53 % 
-Other                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Markdown                 8 mins              ███████████████████░░░░░░   74.32 % 
+Other                    3 mins              ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 52 mins       █████████████████████████   100.00 % 
+Cursor                   11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -116,7 +113,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelcjh/abelcjh/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2026 02:54:39 UTC
+ Last Updated on 09/05/2026 02:49:37 UTC
 <!--END_SECTION:waka-->
 
 ---
