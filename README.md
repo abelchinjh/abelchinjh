@@ -46,7 +46,7 @@
 
 ### 🧑🏻‍💻 weekly coding stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -54,7 +54,7 @@
 
 > 📦 50.1 kB Used in GitHub's Storage 
  > 
-> 🏆 137 Contributions in the Year 2026
+> 🏆 138 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,21 +65,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                72 commits          █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-🌆 Daytime                93 commits          ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
-🌃 Evening                107 commits         ███████░░░░░░░░░░░░░░░░░░   28.61 % 
-🌙 Night                  102 commits         ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+🌞 Morning                73 commits          █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+🌆 Daytime                93 commits          ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
+🌃 Evening                107 commits         ███████░░░░░░░░░░░░░░░░░░   28.53 % 
+🌙 Night                  102 commits         ███████░░░░░░░░░░░░░░░░░░   27.20 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Tuesday                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Wednesday                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Thursday                 32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Friday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Saturday                 111 commits         ███████░░░░░░░░░░░░░░░░░░   29.68 % 
-Sunday                   129 commits         █████████░░░░░░░░░░░░░░░░   34.49 % 
+Monday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Tuesday                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Wednesday                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Thursday                 32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Friday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Saturday                 112 commits         ███████░░░░░░░░░░░░░░░░░░   29.87 % 
+Sunday                   129 commits         █████████░░░░░░░░░░░░░░░░   34.40 % 
 ```
 
 
@@ -89,21 +89,24 @@ Sunday                   129 commits         █████████░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 8 mins              ███████████████████░░░░░░   74.32 % 
-Other                    3 mins              ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
+Markdown                 1 hr 58 mins        █████████████████░░░░░░░░   67.66 % 
+TOML                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 🔥 Editors: 
-Cursor                   11 mins             █████████████████████████   100.00 % 
+Cursor                   2 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               15 repos            █████████████░░░░░░░░░░░░   53.57 % 
-Python                   8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Dart                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+TypeScript               15 repos            █████████████░░░░░░░░░░░░   51.72 % 
+Python                   9 repos             ████████░░░░░░░░░░░░░░░░░   31.03 % 
+Dart                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
@@ -113,7 +116,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelcjh/abelcjh/main/assets/bar_graph.png)
 
 
- Last Updated on 09/05/2026 02:49:37 UTC
+ Last Updated on 10/05/2026 02:56:21 UTC
 <!--END_SECTION:waka-->
 
 ---
