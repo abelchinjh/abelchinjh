@@ -46,7 +46,7 @@
 
 ### 🧑🏻‍💻 weekly coding stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -89,14 +89,14 @@ Sunday                   129 commits         █████████░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 1 hr 58 mins        █████████████████░░░░░░░░   67.66 % 
-TOML                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Markdown                 2 hrs 1 min         █████████████████░░░░░░░░   66.10 % 
+TOML                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Python                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 55 mins       █████████████████████████   100.00 % 
+Cursor                   3 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -116,7 +116,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelcjh/abelcjh/main/assets/bar_graph.png)
 
 
- Last Updated on 10/05/2026 02:56:21 UTC
+ Last Updated on 11/05/2026 03:32:22 UTC
 <!--END_SECTION:waka-->
 
 ---
