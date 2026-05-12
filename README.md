@@ -46,40 +46,40 @@
 
 ### 🧑🏻‍💻 weekly coding stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 50.1 kB Used in GitHub's Storage 
+> 📦 50.2 kB Used in GitHub's Storage 
  > 
-> 🏆 138 Contributions in the Year 2026
+> 🏆 141 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 11 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                73 commits          █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-🌆 Daytime                93 commits          ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
-🌃 Evening                107 commits         ███████░░░░░░░░░░░░░░░░░░   28.53 % 
-🌙 Night                  102 commits         ███████░░░░░░░░░░░░░░░░░░   27.20 % 
+🌞 Morning                74 commits          █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+🌆 Daytime                94 commits          ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
+🌃 Evening                107 commits         ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+🌙 Night                  102 commits         ███████░░░░░░░░░░░░░░░░░░   27.06 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Tuesday                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Wednesday                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-Thursday                 32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Friday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Saturday                 112 commits         ███████░░░░░░░░░░░░░░░░░░   29.87 % 
-Sunday                   129 commits         █████████░░░░░░░░░░░░░░░░   34.40 % 
+Monday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Tuesday                  9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Wednesday                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Thursday                 32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+Friday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Saturday                 112 commits         ███████░░░░░░░░░░░░░░░░░░   29.71 % 
+Sunday                   129 commits         █████████░░░░░░░░░░░░░░░░   34.22 % 
 ```
 
 
@@ -116,7 +116,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelcjh/abelcjh/main/assets/bar_graph.png)
 
 
- Last Updated on 11/05/2026 03:32:22 UTC
+ Last Updated on 12/05/2026 02:57:18 UTC
 <!--END_SECTION:waka-->
 
 ---
