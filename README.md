@@ -89,14 +89,14 @@ Sunday                   129 commits         █████████░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 3 hrs 11 mins       ███████████░░░░░░░░░░░░░░   45.70 % 
-Python                   1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
-Other                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-TOML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Python                   1 hr 39 mins        █████████░░░░░░░░░░░░░░░░   37.75 % 
+Markdown                 1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   31.58 % 
+Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+TypeScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 59 mins       █████████████████████████   100.00 % 
+Cursor                   4 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -116,7 +116,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelcjh/abelcjh/main/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2026 02:53:56 UTC
+ Last Updated on 17/05/2026 03:27:17 UTC
 <!--END_SECTION:waka-->
 
 ---
