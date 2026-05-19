@@ -46,13 +46,15 @@
 
 ### 🧑🏻‍💻 weekly coding stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2023%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 50.3 kB Used in GitHub's Storage 
  > 
-> 🏆 142 Contributions in the Year 2026
+> 🏆 143 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,6 +62,43 @@
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                74 commits          █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+🌆 Daytime                94 commits          ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
+🌃 Evening                108 commits         ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+🌙 Night                  103 commits         ███████░░░░░░░░░░░░░░░░░░   27.18 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Tuesday                  9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Wednesday                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Thursday                 32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Friday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Saturday                 113 commits         ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+Sunday                   129 commits         █████████░░░░░░░░░░░░░░░░   34.04 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+Python                   1 hr 32 mins        █████████░░░░░░░░░░░░░░░░   36.49 % 
+Markdown                 1 hr 19 mins        ████████░░░░░░░░░░░░░░░░░   31.68 % 
+Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+TypeScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+
+🔥 Editors: 
+Cursor                   4 hrs 12 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -77,7 +116,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelcjh/abelcjh/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2026 03:40:42 UTC
+ Last Updated on 19/05/2026 03:34:19 UTC
 <!--END_SECTION:waka-->
 
 ---
