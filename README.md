@@ -62,6 +62,43 @@
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                74 commits          █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+🌆 Daytime                94 commits          ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
+🌃 Evening                108 commits         ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+🌙 Night                  103 commits         ███████░░░░░░░░░░░░░░░░░░   27.18 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Tuesday                  9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Wednesday                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Thursday                 32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Friday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Saturday                 113 commits         ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+Sunday                   129 commits         █████████░░░░░░░░░░░░░░░░   34.04 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+TypeScript               10 mins             ████████████████░░░░░░░░░   62.26 % 
+Markdown                 3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+Python                   2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+
+🔥 Editors: 
+Cursor                   16 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -79,7 +116,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelcjh/abelcjh/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2026 03:34:25 UTC
+ Last Updated on 21/05/2026 03:41:09 UTC
 <!--END_SECTION:waka-->
 
 ---
