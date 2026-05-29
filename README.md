@@ -46,15 +46,13 @@
 
 ### 🧑🏻‍💻 weekly coding stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2033%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 50.3 kB Used in GitHub's Storage 
  > 
-> 🏆 144 Contributions in the Year 2026
+> 🏆 145 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,39 +60,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                74 commits          █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-🌆 Daytime                94 commits          ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-🌃 Evening                108 commits         ███████░░░░░░░░░░░░░░░░░░   28.42 % 
-🌙 Night                  104 commits         ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Tuesday                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Wednesday                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-Thursday                 32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Friday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Saturday                 113 commits         ███████░░░░░░░░░░░░░░░░░░   29.74 % 
-Sunday                   129 commits         ████████░░░░░░░░░░░░░░░░░   33.95 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -112,7 +77,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelcjh/abelcjh/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 03:35:53 UTC
+ Last Updated on 29/05/2026 03:36:14 UTC
 <!--END_SECTION:waka-->
 
 ---
