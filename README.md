@@ -62,39 +62,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                74 commits          █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-🌆 Daytime                96 commits          ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
-🌃 Evening                114 commits         ███████░░░░░░░░░░░░░░░░░░   28.64 % 
-🌙 Night                  114 commits         ███████░░░░░░░░░░░░░░░░░░   28.64 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-Tuesday                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Wednesday                23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-Thursday                 33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Friday                   54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Saturday                 128 commits         ████████░░░░░░░░░░░░░░░░░   32.16 % 
-Sunday                   129 commits         ████████░░░░░░░░░░░░░░░░░   32.41 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -112,7 +79,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelcjh/abelcjh/main/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2026 04:00:15 UTC
+ Last Updated on 05/06/2026 03:44:06 UTC
 <!--END_SECTION:waka-->
 
 ---
