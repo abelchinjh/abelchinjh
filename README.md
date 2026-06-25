@@ -46,7 +46,7 @@
 
 ### 🧑🏻‍💻 weekly coding stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -54,32 +54,32 @@
 
 > 📦 54.9 kB Used in GitHub's Storage 
  > 
-> 🏆 179 Contributions in the Year 2026
+> 🏆 186 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 11 Public Repositories 
+> 📜 12 Public Repositories 
  > 
-> 🔑 4 Private Repositories 
+> 🔑 6 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                81 commits          █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-🌆 Daytime                111 commits         ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
-🌃 Evening                121 commits         ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-🌙 Night                  116 commits         ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+🌞 Morning                81 commits          █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+🌆 Daytime                116 commits         ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+🌃 Evening                121 commits         ███████░░░░░░░░░░░░░░░░░░   27.88 % 
+🌙 Night                  116 commits         ███████░░░░░░░░░░░░░░░░░░   26.73 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Tuesday                  12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-Wednesday                23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-Thursday                 33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Friday                   61 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Saturday                 142 commits         ████████░░░░░░░░░░░░░░░░░   33.10 % 
-Sunday                   130 commits         ████████░░░░░░░░░░░░░░░░░   30.30 % 
+Monday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Tuesday                  12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Wednesday                28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Thursday                 33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Friday                   61 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Saturday                 142 commits         ████████░░░░░░░░░░░░░░░░░   32.72 % 
+Sunday                   130 commits         ███████░░░░░░░░░░░░░░░░░░   29.95 % 
 ```
 
 
@@ -89,20 +89,20 @@ Sunday                   130 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Unknown Editor           1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               16 repos            ████████████░░░░░░░░░░░░░   47.06 % 
-Python                   13 repos            ██████████░░░░░░░░░░░░░░░   38.24 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+TypeScript               16 repos            ███████████░░░░░░░░░░░░░░   45.71 % 
+Python                   14 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
@@ -112,7 +112,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelcjh/abelcjh/main/assets/bar_graph.png)
 
 
- Last Updated on 24/06/2026 03:35:08 UTC
+ Last Updated on 25/06/2026 03:33:13 UTC
 <!--END_SECTION:waka-->
 
 ---
