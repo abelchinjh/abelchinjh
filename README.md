@@ -98,11 +98,11 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               16 repos            ███████████░░░░░░░░░░░░░░   45.71 % 
-Python                   14 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+TypeScript               17 repos            ████████████░░░░░░░░░░░░░   47.22 % 
+Python                   14 repos            ██████████░░░░░░░░░░░░░░░   38.89 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
@@ -112,7 +112,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelcjh/abelcjh/main/assets/bar_graph.png)
 
 
- Last Updated on 05/07/2026 03:23:12 UTC
+ Last Updated on 06/07/2026 03:31:21 UTC
 <!--END_SECTION:waka-->
 
 ---
