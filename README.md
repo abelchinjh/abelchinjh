@@ -89,20 +89,23 @@ Sunday                   130 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 7 mins              ██████████████████░░░░░░░   72.03 % 
+HTML                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+git ignore               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zed                      10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               20 repos            █████████████░░░░░░░░░░░░   51.28 % 
-Python                   14 repos            █████████░░░░░░░░░░░░░░░░   35.90 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+TypeScript               20 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+Python                   14 repos            █████████░░░░░░░░░░░░░░░░   35.00 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 
@@ -112,7 +115,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelcjh/abelcjh/main/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2026 02:58:29 UTC
+ Last Updated on 10/07/2026 03:17:32 UTC
 <!--END_SECTION:waka-->
 
 ---
