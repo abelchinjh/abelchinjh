@@ -101,11 +101,11 @@ Zed                      10 mins             ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               20 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-Python                   14 repos            █████████░░░░░░░░░░░░░░░░   35.00 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+TypeScript               21 repos            █████████████░░░░░░░░░░░░   51.22 % 
+Python                   14 repos            █████████░░░░░░░░░░░░░░░░   34.15 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
@@ -115,7 +115,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelcjh/abelcjh/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2026 02:36:50 UTC
+ Last Updated on 12/07/2026 02:44:30 UTC
 <!--END_SECTION:waka-->
 
 ---
