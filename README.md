@@ -89,13 +89,10 @@ Sunday                   139 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 7 mins              ██████████████████░░░░░░░   72.03 % 
-HTML                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-git ignore               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zed                      10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -115,7 +112,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelcjh/abelcjh/main/assets/bar_graph.png)
 
 
- Last Updated on 17/07/2026 02:36:34 UTC
+ Last Updated on 18/07/2026 02:27:30 UTC
 <!--END_SECTION:waka-->
 
 ---
