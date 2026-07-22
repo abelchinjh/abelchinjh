@@ -54,32 +54,32 @@
 
 > 📦 55.1 kB Used in GitHub's Storage 
  > 
-> 🏆 208 Contributions in the Year 2026
+> 🏆 237 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 17 Public Repositories 
  > 
 > 🔑 7 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                90 commits          █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-🌆 Daytime                128 commits         ███████░░░░░░░░░░░░░░░░░░   28.01 % 
-🌃 Evening                121 commits         ███████░░░░░░░░░░░░░░░░░░   26.48 % 
-🌙 Night                  118 commits         ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+🌞 Morning                105 commits         █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+🌆 Daytime                140 commits         ███████░░░░░░░░░░░░░░░░░░   27.13 % 
+🌃 Evening                141 commits         ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+🌙 Night                  130 commits         ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-Tuesday                  22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Wednesday                28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-Thursday                 37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Friday                   61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Saturday                 142 commits         ████████░░░░░░░░░░░░░░░░░   31.07 % 
-Sunday                   139 commits         ████████░░░░░░░░░░░░░░░░░   30.42 % 
+Monday                   36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Tuesday                  44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Wednesday                44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Thursday                 50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Friday                   61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Saturday                 142 commits         ███████░░░░░░░░░░░░░░░░░░   27.52 % 
+Sunday                   139 commits         ███████░░░░░░░░░░░░░░░░░░   26.94 % 
 ```
 
 
@@ -89,20 +89,25 @@ Sunday                   139 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 56 mins             ███████████████░░░░░░░░░░   58.05 % 
+Python                   16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+JavaScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Hermes                   1 hr 34 mins        ████████████████████████░   97.26 % 
+Zed                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               23 repos            █████████████░░░░░░░░░░░░   52.27 % 
-Python                   14 repos            ████████░░░░░░░░░░░░░░░░░   31.82 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+TypeScript               23 repos            █████████████░░░░░░░░░░░░   51.11 % 
+Python                   14 repos            ████████░░░░░░░░░░░░░░░░░   31.11 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 
@@ -112,7 +117,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelcjh/abelcjh/main/assets/bar_graph.png)
 
 
- Last Updated on 21/07/2026 02:38:46 UTC
+ Last Updated on 22/07/2026 02:36:58 UTC
 <!--END_SECTION:waka-->
 
 ---
