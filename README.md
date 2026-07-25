@@ -63,21 +63,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                115 commits         █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-🌆 Daytime                148 commits         ███████░░░░░░░░░░░░░░░░░░   26.43 % 
-🌃 Evening                161 commits         ███████░░░░░░░░░░░░░░░░░░   28.75 % 
-🌙 Night                  136 commits         ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+🌞 Morning                120 commits         █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+🌆 Daytime                156 commits         ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+🌃 Evening                170 commits         ███████░░░░░░░░░░░░░░░░░░   29.06 % 
+🌙 Night                  139 commits         ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Tuesday                  58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Wednesday                54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Thursday                 64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Friday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Saturday                 142 commits         ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
-Sunday                   139 commits         ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+Monday                   42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Tuesday                  65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Wednesday                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Thursday                 70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Friday                   68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Saturday                 142 commits         ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+Sunday                   139 commits         ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
 ```
 
 
@@ -87,15 +87,15 @@ Sunday                   139 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 2 hrs 33 mins       ████████████░░░░░░░░░░░░░   47.14 % 
-Python                   52 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Text                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-JavaScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-HTML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Markdown                 3 hrs 37 mins       ████████████░░░░░░░░░░░░░   47.27 % 
+Python                   1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+TypeScript               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+JavaScript               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Text                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
 
 🔥 Editors: 
-Hermes                   5 hrs 22 mins       █████████████████████████   99.18 % 
-Zed                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Hermes                   7 hrs 37 mins       █████████████████████████   99.42 % 
+Zed                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -115,7 +115,7 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelcjh/abelcjh/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 02:38:17 UTC
+ Last Updated on 25/07/2026 02:36:55 UTC
 <!--END_SECTION:waka-->
 
 ---
