@@ -46,7 +46,7 @@
 
 ### 🧑🏻‍💻 weekly coding stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -65,21 +65,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                124 commits         █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-🌆 Daytime                160 commits         ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-🌃 Evening                179 commits         ███████░░░░░░░░░░░░░░░░░░   29.59 % 
-🌙 Night                  142 commits         ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+🌞 Morning                128 commits         █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+🌆 Daytime                164 commits         ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+🌃 Evening                182 commits         ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+🌙 Night                  142 commits         ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Tuesday                  72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Wednesday                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-Thursday                 76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Friday                   68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Saturday                 142 commits         ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-Sunday                   139 commits         ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+Monday                   48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Tuesday                  72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Wednesday                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Thursday                 76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Friday                   68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Saturday                 142 commits         ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+Sunday                   146 commits         ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
 ```
 
 
@@ -89,15 +89,15 @@ Sunday                   139 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 4 hrs 35 mins       █████████████░░░░░░░░░░░░   53.20 % 
-Python                   1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-TypeScript               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-JavaScript               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Text                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Markdown                 5 hrs 33 mins       ██████████████░░░░░░░░░░░   54.01 % 
+Python                   1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+TypeScript               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+JavaScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+HTML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
 
 🔥 Editors: 
-Hermes                   8 hrs 35 mins       █████████████████████████   99.49 % 
-Zed                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Hermes                   10 hrs 3 mins       ████████████████████████░   97.76 % 
+Zed                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -117,7 +117,7 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelcjh/abelcjh/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 02:45:48 UTC
+ Last Updated on 27/07/2026 02:53:47 UTC
 <!--END_SECTION:waka-->
 
 ---
