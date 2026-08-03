@@ -46,9 +46,9 @@
 
 ### 🧑🏻‍💻 weekly coding stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -91,15 +91,15 @@ Sunday                   158 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 8 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   39.57 % 
-HTML                     4 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-Python                   3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-JavaScript               1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-TypeScript               1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Markdown                 8 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   39.49 % 
+HTML                     4 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
+Python                   3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+JavaScript               1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+TypeScript               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 
 🔥 Editors: 
-Hermes                   20 hrs 13 mins      ███████████████████████░░   90.21 % 
-Zed                      2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Hermes                   19 hrs 58 mins      ███████████████████████░░   90.86 % 
+Zed                      2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -125,7 +125,7 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelcjh/abelcjh/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 02:44:49 UTC
+ Last Updated on 03/08/2026 02:46:07 UTC
 <!--END_SECTION:waka-->
 
 ---
