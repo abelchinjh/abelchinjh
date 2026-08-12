@@ -46,42 +46,42 @@
 
 ### 🧑🏻‍💻 weekly coding stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-75%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 58.8 kB Used in GitHub's Storage 
+> 📦 58.9 kB Used in GitHub's Storage 
  > 
-> 🏆 535 Contributions in the Year 2026
+> 🏆 541 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 7 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                348 commits         █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
-🌆 Daytime                504 commits         ████████░░░░░░░░░░░░░░░░░   30.77 % 
-🌃 Evening                476 commits         ███████░░░░░░░░░░░░░░░░░░   29.06 % 
-🌙 Night                  310 commits         █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+🌞 Morning                353 commits         █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+🌆 Daytime                504 commits         ████████░░░░░░░░░░░░░░░░░   30.68 % 
+🌃 Evening                476 commits         ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+🌙 Night                  310 commits         █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   91 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Tuesday                  182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Wednesday                167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Thursday                 206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Friday                   676 commits         ██████████░░░░░░░░░░░░░░░   41.27 % 
-Saturday                 149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Sunday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Monday                   91 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Tuesday                  182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Wednesday                172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Thursday                 206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Friday                   676 commits         ██████████░░░░░░░░░░░░░░░   41.14 % 
+Saturday                 149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Sunday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
 ```
 
 
@@ -91,14 +91,14 @@ Sunday                   167 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 22 hrs 6 mins       ███████████████████░░░░░░   74.65 % 
-Python                   3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-TypeScript               1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-JavaScript               1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-Text                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Markdown                 20 hrs 49 mins      █████████████████░░░░░░░░   69.00 % 
+Python                   4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+TypeScript               1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+JavaScript               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Text                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 🔥 Editors: 
-Hermes                   29 hrs 37 mins      █████████████████████████   100.00 % 
+Hermes                   30 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -110,11 +110,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               24 repos            ████████████░░░░░░░░░░░░░   48.98 % 
-Python                   16 repos            ████████░░░░░░░░░░░░░░░░░   32.65 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-PLpgSQL                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+TypeScript               24 repos            ████████████░░░░░░░░░░░░░   48.00 % 
+Python                   17 repos            ████████░░░░░░░░░░░░░░░░░   34.00 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+PLpgSQL                  1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 
@@ -124,7 +124,7 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelcjh/abelcjh/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 01:43:07 UTC
+ Last Updated on 12/08/2026 01:54:05 UTC
 <!--END_SECTION:waka-->
 
 ---
