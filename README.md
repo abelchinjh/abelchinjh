@@ -46,9 +46,9 @@
 
 ### 🧑🏻‍💻 weekly coding stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-75%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-77%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -91,14 +91,15 @@ Sunday                   167 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 20 hrs 49 mins      █████████████████░░░░░░░░   69.00 % 
-Python                   4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-TypeScript               1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-JavaScript               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Text                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Markdown                 15 hrs 23 mins      ███████████████░░░░░░░░░░   61.78 % 
+Python                   5 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+JavaScript               1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+TypeScript               29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🔥 Editors: 
-Hermes                   30 hrs 11 mins      █████████████████████████   100.00 % 
+Hermes                   24 hrs 47 mins      █████████████████████████   99.48 % 
+Zed                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -124,7 +125,7 @@ PLpgSQL                  1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelcjh/abelcjh/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 01:54:05 UTC
+ Last Updated on 13/08/2026 01:56:37 UTC
 <!--END_SECTION:waka-->
 
 ---
