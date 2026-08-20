@@ -36,10 +36,10 @@
 ### 📊 github stats
 
 <div align="center">
-  <img src="https://github-readme-stats-vercel-clone.vercel.app/api?username=abelcjh&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-vercel-clone.vercel.app/api?username=abelchinjh&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats-vercel-clone.vercel.app/api/top-langs/?username=abelcjh&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats-vercel-clone.vercel.app/api/top-langs/?username=abelchinjh&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 ---
@@ -137,7 +137,7 @@ PLpgSQL                  1 repo              ░░░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/abelcjh/abelcjh/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/abelchinjh/abelchinjh/main/assets/bar_graph.png)
 
 
  Last Updated on 20/08/2026 01:12:14 UTC
