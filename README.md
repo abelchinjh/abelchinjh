@@ -46,9 +46,9 @@
 
 ### 🧑🏻‍💻 weekly coding stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-99%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -91,22 +91,22 @@ Sunday                   212 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               11 hrs 32 mins      ███████████░░░░░░░░░░░░░░   44.88 % 
-Python                   4 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Markdown                 2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-CSS                      1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-JavaScript               1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+TypeScript               11 hrs 40 mins      ████████████░░░░░░░░░░░░░   47.47 % 
+Python                   3 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Markdown                 2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+JavaScript               1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+CSS                      1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 
 🔥 Editors: 
-Hermes                   25 hrs 1 min        ████████████████████████░   97.30 % 
-Zed                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Exec Wakatime            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Hermes                   24 hrs 2 mins       ████████████████████████░   97.70 % 
+Zed                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Exec Wakatime            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 4 mins (97.53%)
+⏱ AI Coding Time: 24 hrs 5 mins (97.94%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -140,7 +140,7 @@ PLpgSQL                  1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelcjh/abelcjh/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 01:13:00 UTC
+ Last Updated on 20/08/2026 01:12:14 UTC
 <!--END_SECTION:waka-->
 
 ---
