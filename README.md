@@ -46,9 +46,9 @@
 
 ### 🧑🏻‍💻 weekly coding stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-112%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -91,36 +91,20 @@ Sunday                   211 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   4 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   30.63 % 
-JavaScript               2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-TypeScript               2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Markdown                 1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-JSON                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Python                   3 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   33.38 % 
+JavaScript               2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+Markdown                 1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+TypeScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+JSON                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
 
 🔥 Editors: 
-Hermes                   15 hrs              █████████████████████████   98.70 % 
-Zed                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Exec Wakatime            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Hermes                   11 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 2 mins (98.94%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 2 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 7,127 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -140,7 +124,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelchinjh/abelchinjh/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 01:14:32 UTC
+ Last Updated on 26/08/2026 01:17:00 UTC
 <!--END_SECTION:waka-->
 
 ---
