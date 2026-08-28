@@ -46,9 +46,9 @@
 
 ### 🧑🏻‍💻 weekly coding stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -91,14 +91,14 @@ Sunday                   211 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   3 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   32.95 % 
-JavaScript               2 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-Markdown                 1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-TypeScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Python                   3 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   32.84 % 
+JavaScript               2 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Markdown                 1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+TypeScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 
 🔥 Editors: 
-Hermes                   10 hrs 17 mins      █████████████████████████   100.00 % 
+Hermes                   10 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -124,7 +124,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelchinjh/abelchinjh/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2026 07:46:14 UTC
+ Last Updated on 28/08/2026 09:48:14 UTC
 <!--END_SECTION:waka-->
 
 ---
