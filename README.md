@@ -46,23 +46,23 @@
 
 ### 🧑🏻‍💻 weekly coding stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-128%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-128%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 70.5 kB Used in GitHub's Storage 
+> 📦 70.8 kB Used in GitHub's Storage 
  > 
-> 🏆 614 Contributions in the Year 2026
+> 🏆 615 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
  > 
-> 🔑 7 Private Repositories 
+> 🔑 8 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -91,22 +91,22 @@ Sunday                   249 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   4 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.02 % 
-TypeScript               4 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
-JavaScript               3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-Markdown                 2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-PowerShell               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Python                   4 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   28.03 % 
+TypeScript               4 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+JavaScript               3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+Markdown                 2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+PowerShell               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 🔥 Editors: 
-Hermes                   14 hrs 19 mins      █████████████████████░░░░   82.61 % 
-Zed                      2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Hermes                   14 hrs 9 mins       █████████████████████░░░░   82.45 % 
+Zed                      2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
 Exec Wakatime            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 20 mins (82.71%)
+⏱ AI Coding Time: 14 hrs 11 mins (82.55%)
 
 ✍️ 0 lines written by AI, 119 lines written by hand (0.0% AI-written)
 
@@ -140,7 +140,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelchinjh/abelchinjh/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 03:11:13 UTC
+ Last Updated on 04/09/2026 03:08:29 UTC
 <!--END_SECTION:waka-->
 
 ---
