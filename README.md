@@ -46,9 +46,9 @@
 
 ### 🧑🏻‍💻 weekly coding stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-210%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-132%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-134%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -91,15 +91,15 @@ Sunday                   249 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   4 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   40.84 % 
-TypeScript               3 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   31.52 % 
-PowerShell               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Markdown                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-JavaScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Python                   3 hrs 56 mins       ███████████░░░░░░░░░░░░░░   42.88 % 
+TypeScript               2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
+PowerShell               1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 🔥 Editors: 
-Hermes                   9 hrs 15 mins       ███████████████████░░░░░░   77.65 % 
-Zed                      2 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+Hermes                   6 hrs 38 mins       ██████████████████░░░░░░░   72.23 % 
+Zed                      2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   27.77 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -125,7 +125,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelchinjh/abelchinjh/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 03:18:04 UTC
+ Last Updated on 09/09/2026 03:20:14 UTC
 <!--END_SECTION:waka-->
 
 ---
