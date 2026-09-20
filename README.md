@@ -46,9 +46,9 @@
 
 ### 🧑🏻‍💻 weekly coding stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-168%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -91,22 +91,22 @@ Sunday                   249 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-JavaScript               5 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
-Markdown                 5 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-Python                   5 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-JSON                     3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-TypeScript               3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Python                   5 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+Markdown                 4 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+JavaScript               4 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+JSON                     3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+TypeScript               3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
 
 🔥 Editors: 
-Hermes                   24 hrs 49 mins      █████████████████████████   99.53 % 
-Zed                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Hermes                   23 hrs 2 mins       █████████████████████████   99.49 % 
+Zed                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 49 mins (99.53%)
+⏱ AI Coding Time: 23 hrs 2 mins (99.49%)
 
 ✍️ 0 lines written by AI, 18 lines written by hand (0.0% AI-written)
 
@@ -140,7 +140,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelchinjh/abelchinjh/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 03:22:15 UTC
+ Last Updated on 20/09/2026 03:39:23 UTC
 <!--END_SECTION:waka-->
 
 ---
