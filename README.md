@@ -46,9 +46,9 @@
 
 ### 🧑🏻‍💻 weekly coding stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -91,36 +91,21 @@ Sunday                   249 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   5 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-Markdown                 4 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-JavaScript               4 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-JSON                     3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-TypeScript               3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Python                   4 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+JavaScript               4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+Markdown                 3 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+JSON                     2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+TypeScript               2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
 
 🔥 Editors: 
-Hermes                   23 hrs 2 mins       █████████████████████████   99.49 % 
-Zed                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Hermes                   17 hrs 45 mins      █████████████████████████   99.53 % 
+Zed                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 2 mins (99.49%)
-
-✍️ 0 lines written by AI, 18 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 407 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 8,084 characters per prompt
-🔁 Iterative Prompter — average 407 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -140,7 +125,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelchinjh/abelchinjh/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 03:39:23 UTC
+ Last Updated on 21/09/2026 03:33:53 UTC
 <!--END_SECTION:waka-->
 
 ---
