@@ -46,17 +46,17 @@
 
 ### 🧑🏻‍💻 weekly coding stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-265%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-268%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-181%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-184%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 83.2 kB Used in GitHub's Storage 
+> 📦 83.5 kB Used in GitHub's Storage 
  > 
-> 🏆 717 Contributions in the Year 2026
+> 🏆 724 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,21 +67,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                442 commits         █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
-🌆 Daytime                595 commits         ███████░░░░░░░░░░░░░░░░░░   29.51 % 
-🌃 Evening                574 commits         ███████░░░░░░░░░░░░░░░░░░   28.47 % 
-🌙 Night                  405 commits         █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+🌞 Morning                459 commits         █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+🌆 Daytime                652 commits         ████████░░░░░░░░░░░░░░░░░   30.58 % 
+🌃 Evening                596 commits         ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+🌙 Night                  425 commits         █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Tuesday                  228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Wednesday                188 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Thursday                 229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Friday                   751 commits         █████████░░░░░░░░░░░░░░░░   37.25 % 
-Saturday                 226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Sunday                   249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Monday                   170 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Tuesday                  253 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Wednesday                203 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Thursday                 256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Friday                   769 commits         █████████░░░░░░░░░░░░░░░░   36.07 % 
+Saturday                 226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Sunday                   255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
 ```
 
 
@@ -91,15 +91,15 @@ Sunday                   249 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-JavaScript               4 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   26.24 % 
-Python                   3 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-Markdown                 3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-TypeScript               2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-JSON                     2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+JavaScript               4 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   26.59 % 
+Python                   3 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+Markdown                 3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+TypeScript               3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+JSON                     1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
 
 🔥 Editors: 
-Hermes                   17 hrs 29 mins      █████████████████████████   99.18 % 
-Zed                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Hermes                   18 hrs 19 mins      █████████████████████████   99.22 % 
+Zed                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -125,7 +125,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelchinjh/abelchinjh/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 03:23:32 UTC
+ Last Updated on 25/09/2026 03:41:21 UTC
 <!--END_SECTION:waka-->
 
 ---
