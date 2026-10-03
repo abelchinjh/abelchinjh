@@ -91,22 +91,22 @@ Sunday                   325 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 11 hrs 38 mins      ███████░░░░░░░░░░░░░░░░░░   29.64 % 
-Python                   10 hrs 16 mins      ███████░░░░░░░░░░░░░░░░░░   26.15 % 
-JavaScript               6 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-JSON                     5 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-TypeScript               3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Markdown                 10 hrs 16 mins      ████████░░░░░░░░░░░░░░░░░   30.24 % 
+Python                   9 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+JavaScript               5 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+JSON                     4 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+TypeScript               2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
 
 🔥 Editors: 
-Hermes                   39 hrs              █████████████████████████   99.34 % 
-Zed                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Hermes                   33 hrs 45 mins      █████████████████████████   99.35 % 
+Zed                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 hrs (99.35%)
+⏱ AI Coding Time: 33 hrs 45 mins (99.36%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -140,7 +140,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelchinjh/abelchinjh/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 04:18:20 UTC
+ Last Updated on 03/10/2026 04:00:41 UTC
 <!--END_SECTION:waka-->
 
 ---
