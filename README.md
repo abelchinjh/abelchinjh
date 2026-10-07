@@ -46,9 +46,9 @@
 
 ### 🧑🏻‍💻 weekly coding stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-318%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-228%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-234%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -91,22 +91,22 @@ Sunday                   341 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 9 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   35.81 % 
-Python                   8 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.29 % 
-JavaScript               3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-JSON                     2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-SQL                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Python                   9 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   41.02 % 
+Markdown                 8 hrs 1 min         █████████░░░░░░░░░░░░░░░░   35.47 % 
+JavaScript               2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+JSON                     2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+SQL                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 🔥 Editors: 
-Hermes                   25 hrs 54 mins      █████████████████████████   98.77 % 
-Zed                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Hermes                   22 hrs 19 mins      █████████████████████████   98.69 % 
+Zed                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 55 mins (98.79%)
+⏱ AI Coding Time: 22 hrs 20 mins (98.7%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -114,12 +114,12 @@ Exec Wakatime            0 secs              ░░░░░░░░░░░�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 191 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 698 characters per prompt
-🔁 Iterative Prompter — average 96 prompts per session
+📚 Verbose Prompter — average 3,081 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -140,7 +140,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelchinjh/abelchinjh/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 05:07:40 UTC
+ Last Updated on 07/10/2026 04:34:40 UTC
 <!--END_SECTION:waka-->
 
 ---
