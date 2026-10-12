@@ -46,9 +46,9 @@
 
 ### 🧑🏻‍💻 weekly coding stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-346%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-346%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-261%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-261%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -91,15 +91,15 @@ Sunday                   341 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   16 hrs 17 mins      ████████████░░░░░░░░░░░░░   47.68 % 
-Markdown                 8 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
-JavaScript               4 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-JSON                     2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-TypeScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Python                   16 hrs 13 mins      ████████████░░░░░░░░░░░░░   47.99 % 
+Markdown                 8 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+JavaScript               4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+JSON                     2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+TypeScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 🔥 Editors: 
-Hermes                   33 hrs 27 mins      ████████████████████████░   97.95 % 
-Zed                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Hermes                   33 hrs 6 mins       ████████████████████████░   97.92 % 
+Zed                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -125,7 +125,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelchinjh/abelchinjh/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 04:17:18 UTC
+ Last Updated on 12/10/2026 04:34:43 UTC
 <!--END_SECTION:waka-->
 
 ---
