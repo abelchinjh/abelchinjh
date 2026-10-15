@@ -46,15 +46,15 @@
 
 ### 🧑🏻‍💻 weekly coding stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-268%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-271%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 83.3 kB Used in GitHub's Storage 
+> 📦 83.4 kB Used in GitHub's Storage 
  > 
 > 🏆 638 Contributions in the Year 2026
  > 
@@ -91,22 +91,22 @@ Sunday                   549 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   12 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   40.52 % 
-JavaScript               6 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
-Markdown                 5 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-JSON                     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-TypeScript               1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Python                   10 hrs 48 mins      ██████████░░░░░░░░░░░░░░░   40.38 % 
+JavaScript               6 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+Markdown                 4 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+TypeScript               1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+JSON                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 
 🔥 Editors: 
-Hermes                   27 hrs 37 mins      ██████████████████████░░░   89.13 % 
-Zed                      3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-OpenCode                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Hermes                   23 hrs 24 mins      ██████████████████████░░░   87.41 % 
+Zed                      3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+OpenCode                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 17 mins (97.39%)
+⏱ AI Coding Time: 26 hrs 3 mins (96.98%)
 
 ✍️ 912 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -143,7 +143,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelchinjh/abelchinjh/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 03:45:22 UTC
+ Last Updated on 15/10/2026 03:26:33 UTC
 <!--END_SECTION:waka-->
 
 ---
