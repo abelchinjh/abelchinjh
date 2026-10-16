@@ -56,7 +56,7 @@
 
 > 📦 83.4 kB Used in GitHub's Storage 
  > 
-> 🏆 638 Contributions in the Year 2026
+> 🏆 640 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,21 +67,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                846 commits         █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-🌆 Daytime                1781 commits        ██████████░░░░░░░░░░░░░░░   39.17 % 
-🌃 Evening                1126 commits        ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
-🌙 Night                  794 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+🌞 Morning                872 commits         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+🌆 Daytime                1847 commits        ██████████░░░░░░░░░░░░░░░   39.30 % 
+🌃 Evening                1165 commits        ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
+🌙 Night                  816 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   730 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Tuesday                  845 commits         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-Wednesday                367 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Thursday                 661 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Friday                   1163 commits        ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
-Saturday                 232 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Sunday                   549 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Monday                   763 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Tuesday                  885 commits         █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Wednesday                380 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Thursday                 685 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Friday                   1189 commits        ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+Saturday                 233 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Sunday                   565 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
 ```
 
 
@@ -91,37 +91,39 @@ Sunday                   549 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   10 hrs 48 mins      ██████████░░░░░░░░░░░░░░░   40.38 % 
-JavaScript               6 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-Markdown                 4 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-TypeScript               1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-JSON                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Python                   5 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.25 % 
+JavaScript               3 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Markdown                 3 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+JSON                     2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+TypeScript               1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
 
 🔥 Editors: 
-Hermes                   23 hrs 24 mins      ██████████████████████░░░   87.41 % 
-Zed                      3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-OpenCode                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Hermes                   12 hrs 42 mins      ███████████████████░░░░░░   75.41 % 
+Zed                      2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+VS Code                  1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+OpenCode                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 3 mins (96.98%)
+⏱ AI Coding Time: 16 hrs 43 mins (98.62%)
 
 ✍️ 912 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,171,003 Input Tokens, 19,765 Output Tokens
+🔤 19,243,441 Input Tokens, 51,254 Output Tokens
 
-💵 $3.81 Estimated AI Cost This Week
+💵 $40.27 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 43 AI Prompts
+🧠 26 AI Sessions, 49 AI Prompts
 
 Step                     915 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 146 characters per prompt
+📝 Concise Prompter — average 262 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -143,7 +145,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abelchinjh/abelchinjh/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 03:26:33 UTC
+ Last Updated on 16/10/2026 03:21:52 UTC
 <!--END_SECTION:waka-->
 
 ---
