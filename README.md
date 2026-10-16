@@ -30,4 +30,4 @@ Ex-NUS CS · Ex-ASEAN scholar.
 
 ### Connect
 
-[Portfolio](https://abelchinjh.com) · [Email](mailto:hello@abelchinjh.com) · [LinkedIn](https://linkedin.com/in/abelchinjh)
+[Portfolio](https://abelchinjh.com) · [Email](mailto:hello@abelchinjh.com) · [LinkedIn](https://linkedin.com/in/abelchinjh) · [X](https://x.com/@abelchinjh) · [Discord](https://discordapp.com/users/1334801780273315870)
