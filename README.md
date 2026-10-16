@@ -1,8 +1,4 @@
-# Abel Chin
-
 ![Abel Chin — Founder · Building in stealth](public/AbelChinGitHubBanner.png)
-
-**Founder · Building in stealth**
 
 Ex-NUS CS · Ex-ASEAN scholar.
 
