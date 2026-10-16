@@ -1,5 +1,7 @@
 # Abel Chin
 
+![Abel Chin — Founder · Building in stealth](public/AbelChinGitHubBanner.png)
+
 **Founder · Building in stealth**
 
 Ex-NUS CS · Ex-ASEAN scholar.
@@ -30,4 +32,4 @@ Ex-NUS CS · Ex-ASEAN scholar.
 
 ### Connect
 
-[Portfolio](https://abelchinjh.com) · [Email](mailto:hello@abelchinjh.com) · [LinkedIn](https://linkedin.com/in/abelchinjh) · [X](https://x.com/@abelchinjh) · [Discord](https://discordapp.com/users/1334801780273315870)
+[Portfolio](https://abelchinjh.com) · [Email](mailto:hello@abelchinjh.com) · [X](https://x.com/@abelchinjh) · [Discord](https://discordapp.com/users/1334801780273315870)
